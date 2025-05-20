@@ -1,5 +1,7 @@
 # Let's Play with Azure
 
+![Azure Basic Resource Definitions](/azure-rds.svg)
+
 |     |                                |            |              |                                 |
 | ----| ------------------------------ | ---------- | ------------ | ------------------------------- |
 | One | `Network/virtualNetwork`       | contains   | zero or more | `Network/networkInterface(s)`.  |
